@@ -1,8 +1,8 @@
 ## To use the app, do the following:
-1- **composer install
-2- **php artisan migrate
-3- **php artisan db:seed
-4- **php artisan serve
+- **composer install**
+- **php artisan migrate**
+- **php artisan db:seed**
+- **php artisan serve**
 ============================
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
